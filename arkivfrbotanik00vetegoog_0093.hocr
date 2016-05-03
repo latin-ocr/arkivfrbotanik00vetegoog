@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik00vetegoog/arkivfrbotanik00vetegoog_0093.png"; bbox 0 0 779 1265; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 35 414 53">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 35 414 53">
+     <span class='ocr_line' id='line_1_1' title="bbox 86 35 414 53; baseline -0.009 -1"><span class='ocrx_word' id='word_1_1' title='bbox 86 37 88 40; x_wconf 72' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 102 37 156 53; x_wconf 80' lang='lat' dir='ltr'><strong>ARKIV</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 166 35 201 52; x_wconf 76' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_4' title='bbox 211 36 294 51; x_wconf 70' lang='grc' dir='ltr'><strong>ΒΟΤΑΝΙΚ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 309 36 333 50; x_wconf 79' lang='lat' dir='ltr'>Ed.</span> <span class='ocrx_word' id='word_1_6' title='bbox 343 36 355 50; x_wconf 88' lang='lat'>7.</span> <span class='ocrx_word' id='word_1_7' title='bbox 369 36 393 50; x_wconf 78' lang='lat' dir='ltr'>Nzr</span> <span class='ocrx_word' id='word_1_8' title='bbox 402 35 414 49; x_wconf 81' lang='lat'>2.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 545 779 1173">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 545 779 1173">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 545 779 1173; baseline 0 92"><span class='ocrx_word' id='word_1_9' title='bbox 148 545 779 1173; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 243 1200 779 1219">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 243 1200 779 1219">
+     <span class='ocr_line' id='line_1_3' title="bbox 243 1200 779 1219; baseline -0.006 -4"><span class='ocrx_word' id='word_1_10' title='bbox 243 1202 253 1215; x_wconf 96' lang='lat' dir='ltr'>l.</span> <span class='ocrx_word' id='word_1_11' title='bbox 268 1201 358 1219; x_wconf 73' lang='lat' dir='ltr'>Sisymbrium</span> <span class='ocrx_word' id='word_1_12' title='bbox 368 1201 440 1215; x_wconf 76' lang='lat' dir='ltr'>ssexicaule</span> <span class='ocrx_word' id='word_1_13' title='bbox 450 1204 482 1215; x_wconf 65' lang='grc' dir='ltr'>ιιι-Η.</span> <span class='ocrx_word' id='word_1_14' title='bbox 501 1202 513 1216; x_wconf 76' lang='grc'>2.</span> <span class='ocrx_word' id='word_1_15' title='bbox 528 1202 583 1216; x_wconf 65' lang='lat' dir='ltr'>Festum</span> <span class='ocrx_word' id='word_1_16' title='bbox 593 1201 632 1216; x_wconf 72' lang='lat' dir='ltr'>rubra</span> <span class='ocrx_word' id='word_1_17' title='bbox 642 1201 655 1215; x_wconf 90' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_18' title='bbox 666 1205 690 1215; x_wconf 77' lang='lat' dir='ltr'>var.</span> <span class='ocrx_word' id='word_1_19' title='bbox 700 1200 779 1218; x_wconf 71' lang='lat' dir='ltr'><strong>simplicium</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik00vetegoog/arkivfrbotanik00vetegoog_0109.png"; bbox 0 0 779 1265; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 59 17 371 35">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 59 17 371 35">
+     <span class='ocr_line' id='line_1_1' title="bbox 59 17 371 35; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 59 19 114 35; x_wconf 71' lang='lat' dir='ltr'>ARKlv</span> <span class='ocrx_word' id='word_1_2' title='bbox 124 17 159 35; x_wconf 66' lang='lat'>1²01&lt;</span> <span class='ocrx_word' id='word_1_3' title='bbox 168 19 251 34; x_wconf 81' lang='grc' dir='ltr'><strong>ΒΟΤΑΝΙΚ.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 265 19 290 33; x_wconf 57' lang='lat' dir='ltr'>Bm</span> <span class='ocrx_word' id='word_1_5' title='bbox 300 19 312 33; x_wconf 91' lang='grc'>7.</span> <span class='ocrx_word' id='word_1_6' title='bbox 326 19 350 33; x_wconf 75' lang='grc' dir='ltr'>Νεῐ</span> <span class='ocrx_word' id='word_1_7' title='bbox 358 19 371 33; x_wconf 88' lang='grc'>2.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 244 1171 774 1214">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 244 1171 774 1214">
+     <span class='ocr_line' id='line_1_2' title="bbox 244 1171 774 1185; baseline 0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 244 1171 270 1185; x_wconf 81' lang='grc'>1-2.</span> <span class='ocrx_word' id='word_1_9' title='bbox 284 1171 346 1185; x_wconf 72' lang='lat' dir='ltr'>Azurcllz</span> <span class='ocrx_word' id='word_1_10' title='bbox 356 1171 419 1185; x_wconf 66' lang='lat' dir='ltr'>ssssubzta</span> <span class='ocrx_word' id='word_1_11' title='bbox 429 1174 460 1185; x_wconf 67' lang='lat' dir='ltr'>urs.</span> <span class='ocrx_word' id='word_1_12' title='bbox 479 1171 492 1185; x_wconf 79' lang='grc'>3.</span> <span class='ocrx_word' id='word_1_13' title='bbox 506 1171 564 1185; x_wconf 77' lang='lat' dir='ltr'><strong>Senecio</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 573 1171 660 1185; x_wconf 64' lang='lat' dir='ltr'>Mutinensis</span> <span class='ocrx_word' id='word_1_15' title='bbox 670 1174 702 1184; x_wconf 63' lang='lat' dir='ltr'>urs&gt;</span> <span class='ocrx_word' id='word_1_16' title='bbox 720 1171 731 1184; x_wconf 39' lang='lat'>4⁴</span> <span class='ocrx_word' id='word_1_17' title='bbox 745 1171 774 1185; x_wconf 70' lang='lat' dir='ltr'>Fen</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 568 1197 774 1214; baseline 0 -2"><span class='ocrx_word' id='word_1_18' title='bbox 568 1198 594 1212; x_wconf 78' lang='lat'>6-7.</span> <span class='ocrx_word' id='word_1_19' title='bbox 609 1197 673 1211; x_wconf 69' lang='lat' dir='ltr'>Adesmia</span> <span class='ocrx_word' id='word_1_20' title='bbox 683 1197 732 1214; x_wconf 69' lang='lat' dir='ltr'>pumila</span> <span class='ocrx_word' id='word_1_21' title='bbox 741 1200 774 1212; x_wconf 75' lang='lat' dir='ltr'>noo!</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
